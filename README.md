@@ -39,14 +39,6 @@
 
 ---
 
-## 📂 Notable Projects
-### 🚀 [Project Name 1](#) *(Brief Description)*  
-- **Tech Stack**: React.js, Tailwind CSS, GSAP  
-- **Features**: Add details of what makes this project special  
-
-### 🌐 [Project Name 2](#) *(Brief Description)*  
-- **Tech Stack**: Solidity, Ether.js, Next.js  
-- **Features**: Add details of what makes this project special  
 
 ---
 
